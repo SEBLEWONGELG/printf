@@ -1,7 +1,7 @@
 # C-programming printf partner project
 
 [ALX C-Programming Group Project #1](https://github.com/DigitalCrood7/printf.git)
-
+[ALX C-Programming Group Project #1](https://github.com/SEBLEWONGELG/printf.git)
 ## This repo contains the group project "printf" with associated tasks:
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life:
 	* Write a function that produces output according to a format.
